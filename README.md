@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# tlaDeProdutos_P.I" 
 "# tlaDeProdutos_P.I" 
 "# tlaDeProdutos_P.I" 
+"# TELADEPRODUTOS_PI" 
